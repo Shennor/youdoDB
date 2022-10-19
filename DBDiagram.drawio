@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T11:25:07.601Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="RuTNGbv8S_HeC6A7M1nn" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T11:25:20.612Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ipGrhLtSNrYnVuEv8q7i" version="20.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -370,7 +370,7 @@
         <mxCell id="9b4lhwUTX39YM-FcfUFE-111" value="Id (int)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9b4lhwUTX39YM-FcfUFE-110">
           <mxGeometry y="26" width="186" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="9b4lhwUTX39YM-FcfUFE-141" value="CategoryId (int)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#FFFF66;" vertex="1" parent="9b4lhwUTX39YM-FcfUFE-110">
+        <mxCell id="9b4lhwUTX39YM-FcfUFE-141" value="CategoryId (int)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;" vertex="1" parent="9b4lhwUTX39YM-FcfUFE-110">
           <mxGeometry y="52" width="186" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9b4lhwUTX39YM-FcfUFE-112" value="IntervalEnd (money)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9b4lhwUTX39YM-FcfUFE-110">
